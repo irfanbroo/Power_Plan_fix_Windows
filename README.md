@@ -1,4 +1,5 @@
 
+
 ```markdown
 # Fix for Missing Edit Power Plan Method in Windows 11
 
@@ -42,4 +43,3 @@ Enjoy your optimized power settings! 😃
 
 Thanks to various comments and experimentation for helping find this solution.
 ```
-
