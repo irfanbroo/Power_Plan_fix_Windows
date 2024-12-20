@@ -44,4 +44,3 @@ Enjoy your optimized power settings! 😃
 Thanks to various comments and experimentation for helping find this solution.
 ```
 
-
