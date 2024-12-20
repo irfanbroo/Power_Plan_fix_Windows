@@ -1,6 +1,4 @@
-I see what you mean. It seems like the formatting might not be rendering correctly in your editor. When you paste markdown text into a GitHub README file, it should render with proper formatting, such as headings, code blocks, and lists. Here’s the same README with clear instructions on how to properly format it:
 
-### Example README.md Content:
 ```markdown
 # Fix for Missing Edit Power Plan Method in Windows 11
 
