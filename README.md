@@ -10,7 +10,7 @@ This repository provides a solution to the weird power scheme bug in Windows 11 
 1. **Duplicate the Desired Power Scheme**
 
    For example, to add the Ultimate Performance plan, use the following command:
-   ```
+   ```cmd
    powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
    ```
 
@@ -26,7 +26,7 @@ This repository provides a solution to the weird power scheme bug in Windows 11 
 3. **Activate the Power Scheme**
 
    Replace the GUID in the command below with your copied GUID:
-   ```
+   ```cmd
    powercfg -s f5cc079d-4f17-4e8d-93c9-395b9e401ba8
    ```
 
